@@ -21,7 +21,7 @@
   </a>
 </p>
 
-# SetupConfigurations
+## :bookmark_tabs: Resume of application
 
 It's a theme, configurations and programs using in my work. I use Linux (Ubuntu 20.04 LTS), Android Studio, DataGrip, DBeaver, Eclipse, GitKraken, Insomnia, IntelliJ IDEA, Postman, PyCharm, Visual Studio, Tweaks Tool and extensions Openweather, Unite, User Themes, Vitals. 
 <p align="center">
@@ -31,30 +31,30 @@ It's a theme, configurations and programs using in my work. I use Linux (Ubuntu 
 <img src="Images/screen_2.png">
 </p>	
 
-### Installing
+### :hammer: Installing
 
 For install it's so easy, you need execute the scripts.
 
 
-## Contributing
+## :family: Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## :chart_with_upwards_trend: Versioning
 
 For the versions available, see the [tags on this repository](https://github.com/franklaercio/Ecoleta/tags). 
 
-## Authors
+## :man_technologist: Authors
 
 * **Frank Laércio** - [franklaercio](https://github.com/franklaercio)
 
 See also the list of [contributors](https://github.com/franklaercio/Ecoleta/contributors) who participated in this project.
 
-## License
+## :clipboard: License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## :newspaper: Acknowledgments
 
 * Theme
 * Shell
